@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #E6EFF5;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px rgba(0, 81, 171, 0.148847);
+    border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    width: 635px;
+    height: 259px;
+    background: #2AB3B1;
+}
+
+.title {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.3px;
+    color: #2AB3B1;
+}
+
+.day {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.225px;
+    color: #C0DF33;
+    margin-bottom: 9.1px;
+    margin-top: 2px;
+}
+
+.description {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    color: #9AA7BE;
+}
+
+.title2 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.225px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.money {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    letter-spacing: -0.4px;
+    color: #FFFFFF;
+    transform: rotate(0.82deg);
+    margin: 9px;
+}
+
+.month {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.paymentd {
+    display: flex;
+    align-items: center;
+}
+
+.payment {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    margin-bottom: 26px;
+}
+
+.sign-up {
+    background: #C0DF33;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.0973011);
+    border-radius: 5px;
+    border: none;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    width: 237px;
+    height: 48px;
+}
+
+.title3 {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.225px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.Lessons {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.175px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+    margin-left: 40px;
+}
+
+.join {
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 54px;
+}
+
+.monthly {
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 40px;
+    /* padding-bottom: 39px; */
+    /* width: 383px; */
+}
+
+.why {
+    width: 50%;
+    background-color: #3acac8;
+}
